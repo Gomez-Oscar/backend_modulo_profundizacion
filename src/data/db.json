@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Electronics",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "category": "Clothing",
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "category": "Home and Kitchen",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "category": "Electronics",
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "category": "Books",
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "category": "Clothing",
+      "rating": 3.5
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "category": "Home and Kitchen",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "category": "Electronics",
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "category": "Books",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "category": "Clothing",
+      "rating": 3.9
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "category": "Home and Kitchen",
+      "rating": 4.4
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "category": "Electronics",
+      "rating": 3.7
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "category": "Books",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "category": "Clothing",
+      "rating": 3.2
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "category": "Home and Kitchen",
+      "rating": 4.3
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "category": "Electronics",
+      "rating": 3.6
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "category": "Books",
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "category": "Clothing",
+      "rating": 3.8
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "category": "Home and Kitchen",
+      "rating": 4.2
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "category": "Electronics",
+      "rating": 4.0
+    },
+    {
+      "id": 21,
+      "name": "Product 21",
+      "category": "Books",
+      "rating": 4.7
+    },
+    {
+      "id": 22,
+      "name": "Product 22",
+      "category": "Clothing",
+      "rating": 3.5
+    },
+    {
+      "id": 23,
+      "name": "Product 23",
+      "category": "Home and Kitchen",
+      "rating": 4.8
+    },
+    {
+      "id": 24,
+      "name": "Product 24",
+      "category": "Electronics",
+      "rating": 4.1
+    },
+    {
+      "id": 25,
+      "name": "Product 25",
+      "category": "Books",
+      "rating": 4.6
+    },
+    {
+      "id": 26,
+      "name": "Product 26",
+      "category": "Clothing",
+      "rating": 3.9
+    },
+    {
+      "id": 27,
+      "name": "Product 27",
+      "category": "Home and Kitchen",
+      "rating": 4.4
+    },
+    {
+      "id": 28,
+      "name": "Product 28",
+      "category": "Electronics",
+      "rating": 3.7
+    },
+    {
+      "id": 29,
+      "name": "Product 29",
+      "category": "Books",
+      "rating": 4.9
+    },
+    {
+      "id": 30,
+      "name": "Product 30",
+      "category": "Clothing",
+      "rating": 3.2
+    },
+    {
+      "id": 31,
+      "name": "Product 31",
+      "category": "Home and Kitchen",
+      "rating": 4.3
+    },
+    {
+      "id": 32,
+      "name": "Product 32",
+      "category": "Electronics",
+      "rating": 3.6
+    },
+    {
+      "id": 33,
+      "name": "Product 33",
+      "category": "Books",
+      "rating": 4.5
+    },
+    {
+      "id": 34,
+      "name": "Product 34",
+      "category": "Clothing",
+      "rating": 3.8
+    },
+    {
+      "id": 35,
+      "name": "Product 35",
+      "category": "Home and Kitchen",
+      "rating": 4.2
+    },
+    {
+      "id": 36,
+      "name": "Product 36",
+      "category": "Electronics",
+      "rating": 4.0
+    },
+    {
+      "id": 37,
+      "name": "Product 37",
+      "category": "Books",
+      "rating": 4.7
+    },
+    {
+      "id": 38,
+      "name": "Product 38",
+      "category": "Clothing",
+      "rating": 3.5
+    },
+    {
+      "id": 39,
+      "name": "Product 39",
+      "category": "Home and Kitchen",
+      "rating": 4.8
+    },
+    {
+      "id": 40,
+      "name": "Product 40",
+      "category": "Electronics",
+      "rating": 4.1
+    },
+    {
+      "id": 41,
+      "name": "Product 41",
+      "category": "Books",
+      "rating": 4.6
+    },
+    {
+      "id": 42,
+      "name": "Product 42",
+      "category": "Clothing",
+      "rating": 3.9
+    },
+    {
+      "id": 43,
+      "name": "Product 43",
+      "category": "Home and Kitchen",
+      "rating": 4.4
+    },
+    {
+      "id": 44,
+      "name": "Product 44",
+      "category": "Electronics",
+      "rating": 3.7
+    },
+    {
+      "id": 45,
+      "name": "Product 45",
+      "category": "Books",
+      "rating": 4.9
+    },
+    {
+      "id": 46,
+      "name": "Product 46",
+      "category": "Clothing",
+      "rating": 3.2
+    },
+    {
+      "id": 47,
+      "name": "Product 47",
+      "category": "Home and Kitchen",
+      "rating": 4.3
+    },
+    {
+      "id": 48,
+      "name": "Product 48",
+      "category": "Electronics",
+      "rating": 3.6
+    },
+    {
+      "id": 49,
+      "name": "Product 49",
+      "category": "Books",
+      "rating": 4.5
+    },
+    {
+      "id": 50,
+      "name": "Product 50",
+      "category": "Clothing",
+      "rating": 3.8
+    }
+  ]
+}
