@@ -1,304 +1,302 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "name": "Product 1",
-      "category": "Electronics",
-      "rating": 4.5
-    },
-    {
-      "id": 2,
-      "name": "Product 2",
-      "category": "Clothing",
-      "rating": 3.8
-    },
-    {
-      "id": 3,
-      "name": "Product 3",
-      "category": "Home and Kitchen",
-      "rating": 4.2
-    },
-    {
-      "id": 4,
-      "name": "Product 4",
-      "category": "Electronics",
-      "rating": 4.0
-    },
-    {
-      "id": 5,
-      "name": "Product 5",
-      "category": "Books",
-      "rating": 4.7
-    },
-    {
-      "id": 6,
-      "name": "Product 6",
-      "category": "Clothing",
-      "rating": 3.5
-    },
-    {
-      "id": 7,
-      "name": "Product 7",
-      "category": "Home and Kitchen",
-      "rating": 4.8
-    },
-    {
-      "id": 8,
-      "name": "Product 8",
-      "category": "Electronics",
-      "rating": 4.1
-    },
-    {
-      "id": 9,
-      "name": "Product 9",
-      "category": "Books",
-      "rating": 4.6
-    },
-    {
-      "id": 10,
-      "name": "Product 10",
-      "category": "Clothing",
-      "rating": 3.9
-    },
-    {
-      "id": 11,
-      "name": "Product 11",
-      "category": "Home and Kitchen",
-      "rating": 4.4
-    },
-    {
-      "id": 12,
-      "name": "Product 12",
-      "category": "Electronics",
-      "rating": 3.7
-    },
-    {
-      "id": 13,
-      "name": "Product 13",
-      "category": "Books",
-      "rating": 4.9
-    },
-    {
-      "id": 14,
-      "name": "Product 14",
-      "category": "Clothing",
-      "rating": 3.2
-    },
-    {
-      "id": 15,
-      "name": "Product 15",
-      "category": "Home and Kitchen",
-      "rating": 4.3
-    },
-    {
-      "id": 16,
-      "name": "Product 16",
-      "category": "Electronics",
-      "rating": 3.6
-    },
-    {
-      "id": 17,
-      "name": "Product 17",
-      "category": "Books",
-      "rating": 4.5
-    },
-    {
-      "id": 18,
-      "name": "Product 18",
-      "category": "Clothing",
-      "rating": 3.8
-    },
-    {
-      "id": 19,
-      "name": "Product 19",
-      "category": "Home and Kitchen",
-      "rating": 4.2
-    },
-    {
-      "id": 20,
-      "name": "Product 20",
-      "category": "Electronics",
-      "rating": 4.0
-    },
-    {
-      "id": 21,
-      "name": "Product 21",
-      "category": "Books",
-      "rating": 4.7
-    },
-    {
-      "id": 22,
-      "name": "Product 22",
-      "category": "Clothing",
-      "rating": 3.5
-    },
-    {
-      "id": 23,
-      "name": "Product 23",
-      "category": "Home and Kitchen",
-      "rating": 4.8
-    },
-    {
-      "id": 24,
-      "name": "Product 24",
-      "category": "Electronics",
-      "rating": 4.1
-    },
-    {
-      "id": 25,
-      "name": "Product 25",
-      "category": "Books",
-      "rating": 4.6
-    },
-    {
-      "id": 26,
-      "name": "Product 26",
-      "category": "Clothing",
-      "rating": 3.9
-    },
-    {
-      "id": 27,
-      "name": "Product 27",
-      "category": "Home and Kitchen",
-      "rating": 4.4
-    },
-    {
-      "id": 28,
-      "name": "Product 28",
-      "category": "Electronics",
-      "rating": 3.7
-    },
-    {
-      "id": 29,
-      "name": "Product 29",
-      "category": "Books",
-      "rating": 4.9
-    },
-    {
-      "id": 30,
-      "name": "Product 30",
-      "category": "Clothing",
-      "rating": 3.2
-    },
-    {
-      "id": 31,
-      "name": "Product 31",
-      "category": "Home and Kitchen",
-      "rating": 4.3
-    },
-    {
-      "id": 32,
-      "name": "Product 32",
-      "category": "Electronics",
-      "rating": 3.6
-    },
-    {
-      "id": 33,
-      "name": "Product 33",
-      "category": "Books",
-      "rating": 4.5
-    },
-    {
-      "id": 34,
-      "name": "Product 34",
-      "category": "Clothing",
-      "rating": 3.8
-    },
-    {
-      "id": 35,
-      "name": "Product 35",
-      "category": "Home and Kitchen",
-      "rating": 4.2
-    },
-    {
-      "id": 36,
-      "name": "Product 36",
-      "category": "Electronics",
-      "rating": 4.0
-    },
-    {
-      "id": 37,
-      "name": "Product 37",
-      "category": "Books",
-      "rating": 4.7
-    },
-    {
-      "id": 38,
-      "name": "Product 38",
-      "category": "Clothing",
-      "rating": 3.5
-    },
-    {
-      "id": 39,
-      "name": "Product 39",
-      "category": "Home and Kitchen",
-      "rating": 4.8
-    },
-    {
-      "id": 40,
-      "name": "Product 40",
-      "category": "Electronics",
-      "rating": 4.1
-    },
-    {
-      "id": 41,
-      "name": "Product 41",
-      "category": "Books",
-      "rating": 4.6
-    },
-    {
-      "id": 42,
-      "name": "Product 42",
-      "category": "Clothing",
-      "rating": 3.9
-    },
-    {
-      "id": 43,
-      "name": "Product 43",
-      "category": "Home and Kitchen",
-      "rating": 4.4
-    },
-    {
-      "id": 44,
-      "name": "Product 44",
-      "category": "Electronics",
-      "rating": 3.7
-    },
-    {
-      "id": 45,
-      "name": "Product 45",
-      "category": "Books",
-      "rating": 4.9
-    },
-    {
-      "id": 46,
-      "name": "Product 46",
-      "category": "Clothing",
-      "rating": 3.2
-    },
-    {
-      "id": 47,
-      "name": "Product 47",
-      "category": "Home and Kitchen",
-      "rating": 4.3
-    },
-    {
-      "id": 48,
-      "name": "Product 48",
-      "category": "Electronics",
-      "rating": 3.6
-    },
-    {
-      "id": 49,
-      "name": "Product 49",
-      "category": "Books",
-      "rating": 4.5
-    },
-    {
-      "id": 50,
-      "name": "Product 50",
-      "category": "Clothing",
-      "rating": 3.8
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "category": "Electronics",
+    "rating": 4.5,
+    "name": "Smartphone X"
+  },
+  {
+    "id": 2,
+    "category": "Clothing",
+    "rating": 3.8,
+    "name": "Stylish Jeans"
+  },
+  {
+    "id": 3,
+    "category": "Home and Kitchen",
+    "rating": 4.2,
+    "name": "Coffee Maker Deluxe"
+  },
+  {
+    "id": 4,
+    "category": "Books",
+    "rating": 4.7,
+    "name": "Adventure Chronicles"
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "rating": 4.0,
+    "name": "Professional Tennis Racket"
+  },
+  {
+    "id": 6,
+    "category": "Beauty",
+    "rating": 4.5,
+    "name": "Luxury Perfume"
+  },
+  {
+    "id": 7,
+    "category": "Electronics",
+    "rating": 3.9,
+    "name": "Wireless Headphones"
+  },
+  {
+    "id": 8,
+    "category": "Clothing",
+    "rating": 4.1,
+    "name": "Casual T-shirt"
+  },
+  {
+    "id": 9,
+    "category": "Home and Kitchen",
+    "rating": 4.8,
+    "name": "Digital Air Fryer"
+  },
+  {
+    "id": 10,
+    "category": "Books",
+    "rating": 3.5,
+    "name": "Mystery Novel"
+  },
+  {
+    "id": 11,
+    "category": "Sports",
+    "rating": 4.6,
+    "name": "Fitness Tracker"
+  },
+  {
+    "id": 12,
+    "category": "Beauty",
+    "rating": 4.0,
+    "name": "Skincare Set"
+  },
+  {
+    "id": 13,
+    "category": "Electronics",
+    "rating": 3.7,
+    "name": "Smartwatch Pro"
+  },
+  {
+    "id": 14,
+    "category": "Clothing",
+    "rating": 4.2,
+    "name": "Formal Shirt"
+  },
+  {
+    "id": 15,
+    "category": "Home and Kitchen",
+    "rating": 4.9,
+    "name": "Robotic Vacuum Cleaner"
+  },
+  {
+    "id": 16,
+    "category": "Books",
+    "rating": 3.8,
+    "name": "Science Fiction Anthology"
+  },
+  {
+    "id": 17,
+    "category": "Sports",
+    "rating": 4.4,
+    "name": "Basketball Shoes"
+  },
+  {
+    "id": 18,
+    "category": "Beauty",
+    "rating": 4.3,
+    "name": "Makeup Palette"
+  },
+  {
+    "id": 19,
+    "category": "Electronics",
+    "rating": 3.6,
+    "name": "HD Television"
+  },
+  {
+    "id": 20,
+    "category": "Clothing",
+    "rating": 4.7,
+    "name": "Winter Jacket"
+  },
+  {
+    "id": 21,
+    "category": "Home and Kitchen",
+    "rating": 4.1,
+    "name": "Espresso Machine"
+  },
+  {
+    "id": 22,
+    "category": "Books",
+    "rating": 4.5,
+    "name": "Historical Fiction Novel"
+  },
+  {
+    "id": 23,
+    "category": "Sports",
+    "rating": 3.9,
+    "name": "Soccer Ball"
+  },
+  {
+    "id": 24,
+    "category": "Beauty",
+    "rating": 4.6,
+    "name": "Hair Styling Kit"
+  },
+  {
+    "id": 25,
+    "category": "Electronics",
+    "rating": 4.2,
+    "name": "Laptop Pro"
+  },
+  {
+    "id": 26,
+    "category": "Clothing",
+    "rating": 3.5,
+    "name": "Summer Dress"
+  },
+  {
+    "id": 27,
+    "category": "Home and Kitchen",
+    "rating": 4.8,
+    "name": "Blender Master"
+  },
+  {
+    "id": 28,
+    "category": "Books",
+    "rating": 4.0,
+    "name": "Poetry Collection"
+  },
+  {
+    "id": 29,
+    "category": "Sports",
+    "rating": 4.3,
+    "name": "Golf Club Set"
+  },
+  {
+    "id": 30,
+    "category": "Beauty",
+    "rating": 3.7,
+    "name": "Luxury Face Cream"
+  },
+  {
+    "id": 31,
+    "category": "Electronics",
+    "rating": 4.4,
+    "name": "Digital Camera"
+  },
+  {
+    "id": 32,
+    "category": "Clothing",
+    "rating": 3.8,
+    "name": "Sweater Collection"
+  },
+  {
+    "id": 33,
+    "category": "Home and Kitchen",
+    "rating": 4.5,
+    "name": "Smart Refrigerator"
+  },
+  {
+    "id": 34,
+    "category": "Books",
+    "rating": 3.9,
+    "name": "Thriller Novel"
+  },
+  {
+    "id": 35,
+    "category": "Sports",
+    "rating": 4.6,
+    "name": "Biking Helmet"
+  },
+  {
+    "id": 36,
+    "category": "Beauty",
+    "rating": 4.1,
+    "name": "Perfume Gift Set"
+  },
+  {
+    "id": 37,
+    "category": "Electronics",
+    "rating": 3.6,
+    "name": "Smart Speaker"
+  },
+  {
+    "id": 38,
+    "category": "Clothing",
+    "rating": 4.7,
+    "name": "Denim Jacket"
+  },
+  {
+    "id": 39,
+    "category": "Home and Kitchen",
+    "rating": 4.2,
+    "name": "Air Purifier"
+  },
+  {
+    "id": 40,
+    "category": "Books",
+    "rating": 4.8,
+    "name": "Fantasy Novel Series"
+  },
+  {
+    "id": 41,
+    "category": "Sports",
+    "rating": 3.7,
+    "name": "Running Shoes"
+  },
+  {
+    "id": 42,
+    "category": "Beauty",
+    "rating": 4.3,
+    "name": "Anti-Aging Serum"
+  },
+  {
+    "id": 43,
+    "category": "Electronics",
+    "rating": 4.0,
+    "name": "4K Ultra HD TV"
+  },
+  {
+    "id": 44,
+    "category": "Clothing",
+    "rating": 4.5,
+    "name": "Formal Blouse"
+  },
+  {
+    "id": 45,
+    "category": "Home and Kitchen",
+    "rating": 3.8,
+    "name": "Slow Cooker"
+  },
+  {
+    "id": 46,
+    "category": "Books",
+    "rating": 4.6,
+    "name": "Romance Novel"
+  },
+  {
+    "id": 47,
+    "category": "Sports",
+    "rating": 4.1,
+    "name": "Yoga Mat"
+  },
+  {
+    "id": 48,
+    "category": "Beauty",
+    "rating": 3.9,
+    "name": "Facial Cleanser"
+  },
+  {
+    "id": 49,
+    "category": "Electronics",
+    "rating": 4.4,
+    "name": "Gaming Console"
+  },
+  {
+    "id": 50,
+    "category": "Clothing",
+    "rating": 4.2,
+    "name": "Leather Jacket"
+  }
+]
