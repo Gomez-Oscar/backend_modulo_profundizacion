@@ -1,302 +1,304 @@
-[
-  {
-    "id": 1,
-    "category": "Electronics",
-    "rating": 4.5,
-    "name": "Smartphone X"
-  },
-  {
-    "id": 2,
-    "category": "Clothing",
-    "rating": 3.8,
-    "name": "Stylish Jeans"
-  },
-  {
-    "id": 3,
-    "category": "Home and Kitchen",
-    "rating": 4.2,
-    "name": "Coffee Maker Deluxe"
-  },
-  {
-    "id": 4,
-    "category": "Books",
-    "rating": 4.7,
-    "name": "Adventure Chronicles"
-  },
-  {
-    "id": 5,
-    "category": "Sports",
-    "rating": 4.0,
-    "name": "Professional Tennis Racket"
-  },
-  {
-    "id": 6,
-    "category": "Beauty",
-    "rating": 4.5,
-    "name": "Luxury Perfume"
-  },
-  {
-    "id": 7,
-    "category": "Electronics",
-    "rating": 3.9,
-    "name": "Wireless Headphones"
-  },
-  {
-    "id": 8,
-    "category": "Clothing",
-    "rating": 4.1,
-    "name": "Casual T-shirt"
-  },
-  {
-    "id": 9,
-    "category": "Home and Kitchen",
-    "rating": 4.8,
-    "name": "Digital Air Fryer"
-  },
-  {
-    "id": 10,
-    "category": "Books",
-    "rating": 3.5,
-    "name": "Mystery Novel"
-  },
-  {
-    "id": 11,
-    "category": "Sports",
-    "rating": 4.6,
-    "name": "Fitness Tracker"
-  },
-  {
-    "id": 12,
-    "category": "Beauty",
-    "rating": 4.0,
-    "name": "Skincare Set"
-  },
-  {
-    "id": 13,
-    "category": "Electronics",
-    "rating": 3.7,
-    "name": "Smartwatch Pro"
-  },
-  {
-    "id": 14,
-    "category": "Clothing",
-    "rating": 4.2,
-    "name": "Formal Shirt"
-  },
-  {
-    "id": 15,
-    "category": "Home and Kitchen",
-    "rating": 4.9,
-    "name": "Robotic Vacuum Cleaner"
-  },
-  {
-    "id": 16,
-    "category": "Books",
-    "rating": 3.8,
-    "name": "Science Fiction Anthology"
-  },
-  {
-    "id": 17,
-    "category": "Sports",
-    "rating": 4.4,
-    "name": "Basketball Shoes"
-  },
-  {
-    "id": 18,
-    "category": "Beauty",
-    "rating": 4.3,
-    "name": "Makeup Palette"
-  },
-  {
-    "id": 19,
-    "category": "Electronics",
-    "rating": 3.6,
-    "name": "HD Television"
-  },
-  {
-    "id": 20,
-    "category": "Clothing",
-    "rating": 4.7,
-    "name": "Winter Jacket"
-  },
-  {
-    "id": 21,
-    "category": "Home and Kitchen",
-    "rating": 4.1,
-    "name": "Espresso Machine"
-  },
-  {
-    "id": 22,
-    "category": "Books",
-    "rating": 4.5,
-    "name": "Historical Fiction Novel"
-  },
-  {
-    "id": 23,
-    "category": "Sports",
-    "rating": 3.9,
-    "name": "Soccer Ball"
-  },
-  {
-    "id": 24,
-    "category": "Beauty",
-    "rating": 4.6,
-    "name": "Hair Styling Kit"
-  },
-  {
-    "id": 25,
-    "category": "Electronics",
-    "rating": 4.2,
-    "name": "Laptop Pro"
-  },
-  {
-    "id": 26,
-    "category": "Clothing",
-    "rating": 3.5,
-    "name": "Summer Dress"
-  },
-  {
-    "id": 27,
-    "category": "Home and Kitchen",
-    "rating": 4.8,
-    "name": "Blender Master"
-  },
-  {
-    "id": 28,
-    "category": "Books",
-    "rating": 4.0,
-    "name": "Poetry Collection"
-  },
-  {
-    "id": 29,
-    "category": "Sports",
-    "rating": 4.3,
-    "name": "Golf Club Set"
-  },
-  {
-    "id": 30,
-    "category": "Beauty",
-    "rating": 3.7,
-    "name": "Luxury Face Cream"
-  },
-  {
-    "id": 31,
-    "category": "Electronics",
-    "rating": 4.4,
-    "name": "Digital Camera"
-  },
-  {
-    "id": 32,
-    "category": "Clothing",
-    "rating": 3.8,
-    "name": "Sweater Collection"
-  },
-  {
-    "id": 33,
-    "category": "Home and Kitchen",
-    "rating": 4.5,
-    "name": "Smart Refrigerator"
-  },
-  {
-    "id": 34,
-    "category": "Books",
-    "rating": 3.9,
-    "name": "Thriller Novel"
-  },
-  {
-    "id": 35,
-    "category": "Sports",
-    "rating": 4.6,
-    "name": "Biking Helmet"
-  },
-  {
-    "id": 36,
-    "category": "Beauty",
-    "rating": 4.1,
-    "name": "Perfume Gift Set"
-  },
-  {
-    "id": 37,
-    "category": "Electronics",
-    "rating": 3.6,
-    "name": "Smart Speaker"
-  },
-  {
-    "id": 38,
-    "category": "Clothing",
-    "rating": 4.7,
-    "name": "Denim Jacket"
-  },
-  {
-    "id": 39,
-    "category": "Home and Kitchen",
-    "rating": 4.2,
-    "name": "Air Purifier"
-  },
-  {
-    "id": 40,
-    "category": "Books",
-    "rating": 4.8,
-    "name": "Fantasy Novel Series"
-  },
-  {
-    "id": 41,
-    "category": "Sports",
-    "rating": 3.7,
-    "name": "Running Shoes"
-  },
-  {
-    "id": 42,
-    "category": "Beauty",
-    "rating": 4.3,
-    "name": "Anti-Aging Serum"
-  },
-  {
-    "id": 43,
-    "category": "Electronics",
-    "rating": 4.0,
-    "name": "4K Ultra HD TV"
-  },
-  {
-    "id": 44,
-    "category": "Clothing",
-    "rating": 4.5,
-    "name": "Formal Blouse"
-  },
-  {
-    "id": 45,
-    "category": "Home and Kitchen",
-    "rating": 3.8,
-    "name": "Slow Cooker"
-  },
-  {
-    "id": 46,
-    "category": "Books",
-    "rating": 4.6,
-    "name": "Romance Novel"
-  },
-  {
-    "id": 47,
-    "category": "Sports",
-    "rating": 4.1,
-    "name": "Yoga Mat"
-  },
-  {
-    "id": 48,
-    "category": "Beauty",
-    "rating": 3.9,
-    "name": "Facial Cleanser"
-  },
-  {
-    "id": 49,
-    "category": "Electronics",
-    "rating": 4.4,
-    "name": "Gaming Console"
-  },
-  {
-    "id": 50,
-    "category": "Clothing",
-    "rating": 4.2,
-    "name": "Leather Jacket"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Electronics",
+      "rating": 4.5,
+      "name": "Smartphone X"
+    },
+    {
+      "id": 2,
+      "category": "Clothing",
+      "rating": 3.8,
+      "name": "Stylish Jeans"
+    },
+    {
+      "id": 3,
+      "category": "Home and Kitchen",
+      "rating": 4.2,
+      "name": "Coffee Maker Deluxe"
+    },
+    {
+      "id": 4,
+      "category": "Books",
+      "rating": 4.7,
+      "name": "Adventure Chronicles"
+    },
+    {
+      "id": 5,
+      "category": "Sports",
+      "rating": 4.0,
+      "name": "Professional Tennis Racket"
+    },
+    {
+      "id": 6,
+      "category": "Beauty",
+      "rating": 4.5,
+      "name": "Luxury Perfume"
+    },
+    {
+      "id": 7,
+      "category": "Electronics",
+      "rating": 3.9,
+      "name": "Wireless Headphones"
+    },
+    {
+      "id": 8,
+      "category": "Clothing",
+      "rating": 4.1,
+      "name": "Casual T-shirt"
+    },
+    {
+      "id": 9,
+      "category": "Home and Kitchen",
+      "rating": 4.8,
+      "name": "Digital Air Fryer"
+    },
+    {
+      "id": 10,
+      "category": "Books",
+      "rating": 3.5,
+      "name": "Mystery Novel"
+    },
+    {
+      "id": 11,
+      "category": "Sports",
+      "rating": 4.6,
+      "name": "Fitness Tracker"
+    },
+    {
+      "id": 12,
+      "category": "Beauty",
+      "rating": 4.0,
+      "name": "Skincare Set"
+    },
+    {
+      "id": 13,
+      "category": "Electronics",
+      "rating": 3.7,
+      "name": "Smartwatch Pro"
+    },
+    {
+      "id": 14,
+      "category": "Clothing",
+      "rating": 4.2,
+      "name": "Formal Shirt"
+    },
+    {
+      "id": 15,
+      "category": "Home and Kitchen",
+      "rating": 4.9,
+      "name": "Robotic Vacuum Cleaner"
+    },
+    {
+      "id": 16,
+      "category": "Books",
+      "rating": 3.8,
+      "name": "Science Fiction Anthology"
+    },
+    {
+      "id": 17,
+      "category": "Sports",
+      "rating": 4.4,
+      "name": "Basketball Shoes"
+    },
+    {
+      "id": 18,
+      "category": "Beauty",
+      "rating": 4.3,
+      "name": "Makeup Palette"
+    },
+    {
+      "id": 19,
+      "category": "Electronics",
+      "rating": 3.6,
+      "name": "HD Television"
+    },
+    {
+      "id": 20,
+      "category": "Clothing",
+      "rating": 4.7,
+      "name": "Winter Jacket"
+    },
+    {
+      "id": 21,
+      "category": "Home and Kitchen",
+      "rating": 4.1,
+      "name": "Espresso Machine"
+    },
+    {
+      "id": 22,
+      "category": "Books",
+      "rating": 4.5,
+      "name": "Historical Fiction Novel"
+    },
+    {
+      "id": 23,
+      "category": "Sports",
+      "rating": 3.9,
+      "name": "Soccer Ball"
+    },
+    {
+      "id": 24,
+      "category": "Beauty",
+      "rating": 4.6,
+      "name": "Hair Styling Kit"
+    },
+    {
+      "id": 25,
+      "category": "Electronics",
+      "rating": 4.2,
+      "name": "Laptop Pro"
+    },
+    {
+      "id": 26,
+      "category": "Clothing",
+      "rating": 3.5,
+      "name": "Summer Dress"
+    },
+    {
+      "id": 27,
+      "category": "Home and Kitchen",
+      "rating": 4.8,
+      "name": "Blender Master"
+    },
+    {
+      "id": 28,
+      "category": "Books",
+      "rating": 4.0,
+      "name": "Poetry Collection"
+    },
+    {
+      "id": 29,
+      "category": "Sports",
+      "rating": 4.3,
+      "name": "Golf Club Set"
+    },
+    {
+      "id": 30,
+      "category": "Beauty",
+      "rating": 3.7,
+      "name": "Luxury Face Cream"
+    },
+    {
+      "id": 31,
+      "category": "Electronics",
+      "rating": 4.4,
+      "name": "Digital Camera"
+    },
+    {
+      "id": 32,
+      "category": "Clothing",
+      "rating": 3.8,
+      "name": "Sweater Collection"
+    },
+    {
+      "id": 33,
+      "category": "Home and Kitchen",
+      "rating": 4.5,
+      "name": "Smart Refrigerator"
+    },
+    {
+      "id": 34,
+      "category": "Books",
+      "rating": 3.9,
+      "name": "Thriller Novel"
+    },
+    {
+      "id": 35,
+      "category": "Sports",
+      "rating": 4.6,
+      "name": "Biking Helmet"
+    },
+    {
+      "id": 36,
+      "category": "Beauty",
+      "rating": 4.1,
+      "name": "Perfume Gift Set"
+    },
+    {
+      "id": 37,
+      "category": "Electronics",
+      "rating": 3.6,
+      "name": "Smart Speaker"
+    },
+    {
+      "id": 38,
+      "category": "Clothing",
+      "rating": 4.7,
+      "name": "Denim Jacket"
+    },
+    {
+      "id": 39,
+      "category": "Home and Kitchen",
+      "rating": 4.2,
+      "name": "Air Purifier"
+    },
+    {
+      "id": 40,
+      "category": "Books",
+      "rating": 4.8,
+      "name": "Fantasy Novel Series"
+    },
+    {
+      "id": 41,
+      "category": "Sports",
+      "rating": 3.7,
+      "name": "Running Shoes"
+    },
+    {
+      "id": 42,
+      "category": "Beauty",
+      "rating": 4.3,
+      "name": "Anti-Aging Serum"
+    },
+    {
+      "id": 43,
+      "category": "Electronics",
+      "rating": 4.0,
+      "name": "4K Ultra HD TV"
+    },
+    {
+      "id": 44,
+      "category": "Clothing",
+      "rating": 4.5,
+      "name": "Formal Blouse"
+    },
+    {
+      "id": 45,
+      "category": "Home and Kitchen",
+      "rating": 3.8,
+      "name": "Slow Cooker"
+    },
+    {
+      "id": 46,
+      "category": "Books",
+      "rating": 4.6,
+      "name": "Romance Novel"
+    },
+    {
+      "id": 47,
+      "category": "Sports",
+      "rating": 4.1,
+      "name": "Yoga Mat"
+    },
+    {
+      "id": 48,
+      "category": "Beauty",
+      "rating": 3.9,
+      "name": "Facial Cleanser"
+    },
+    {
+      "id": 49,
+      "category": "Electronics",
+      "rating": 4.4,
+      "name": "Gaming Console"
+    },
+    {
+      "id": 50,
+      "category": "Clothing",
+      "rating": 4.2,
+      "name": "Leather Jacket"
+    }
+  ]
+}
