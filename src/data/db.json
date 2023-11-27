@@ -300,5 +300,22 @@
       "rating": 4.2,
       "name": "Leather Jacket"
     }
+  ],
+  "users": [
+    {
+      "name": "oscar",
+      "email": "oscar@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "whitney",
+      "email": "whitney@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "ana",
+      "email": "ana@gmail.com",
+      "password": "1234"
+    }
   ]
 }
